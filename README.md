@@ -1,5 +1,5 @@
 # side-projects-summary
-I made a list of all my side projects, given that in [LinkedIn](https://www.linkedin.com/in/alessiopiergiacomi) they are lost in the middle of work projects, and in one my one-page resume they just don't fit. (In bold the ones I am more proud of)
+I made a list of all my side projects, given that in [LinkedIn](https://www.linkedin.com/in/alessiopiergiacomi) they are lost in the middle of work projects, and in my one-page resume they just don't fit. (In bold the ones I am most proud of)
 
 * [**Anti-antibot Cloudflare library**](https://github.com/alessiop86/anti-antibot-cloudflare) In August 2016 like every respectable geek I went totally crazy with Pokèmon Go. Weeks before *serious* third party apps emerged I wrote an app on my own for personal use. The Android app is throwaway code, but during the app development I needed to fetch data from a website constantly under anti Cloudflare's DDoS protection, so I wrote this [Java/Android library](https://github.com/alessiop86/anti-antibot-cloudflare). *This is probably the best example on GitHub of the quality of the Java production code I can produce*.
 
